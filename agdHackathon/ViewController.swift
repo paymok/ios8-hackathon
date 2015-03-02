@@ -15,8 +15,9 @@ class ViewController: UIViewController {
     @IBOutlet var secondTb : UITextField?
     
     @IBAction func valuChange() {
-    
-        calculateTwoValue(firstTb?.text.toInt(), sNum: secondTb?.text.toInt());
+        let num1 : Int = firstTb.text.toInt();
+        let num2 : Int = secondTb?.text.toInt();
+        calculateTwoValue(num1, num2);
     }
     
     override func viewDidLoad() {
@@ -30,7 +31,7 @@ class ViewController: UIViewController {
     }
 
     func calculateTwoValue(fNum : Int, sNum : Int)  {
-        result?.text =(fNum * sNum);
+        result?.text = (fNum * sNum);
     }
     
     

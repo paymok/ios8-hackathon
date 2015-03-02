@@ -27,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E02387881AA439F800CF2C59 /* SyntaxPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SyntaxPlayground.playground; sourceTree = "<group>"; };
 		E02BF4A21AA42A0200444531 /* agdHackathon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = agdHackathon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E02BF4A61AA42A0200444531 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E02BF4A71AA42A0200444531 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +87,7 @@
 				E02BF4B31AA42A0200444531 /* LaunchScreen.xib */,
 				E02BF4A91AA42A0200444531 /* agdHackathon.xcdatamodeld */,
 				E02BF4A51AA42A0200444531 /* Supporting Files */,
+				E02387881AA439F800CF2C59 /* SyntaxPlayground.playground */,
 			);
 			path = agdHackathon;
 			sourceTree = "<group>";
