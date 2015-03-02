@@ -411,6 +411,7 @@
 				E02BF4C61AA42A0200444531 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E02BF4C71AA42A0200444531 /* Build configuration list for PBXNativeTarget "agdHackathonTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				E02BF4C91AA42A0200444531 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
