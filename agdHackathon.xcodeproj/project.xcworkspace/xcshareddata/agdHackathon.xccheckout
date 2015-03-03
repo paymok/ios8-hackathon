@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>991F2D72-4087-4B87-B966-1BA993774934</string>
+	<key>IDESourceControlProjectName</key>
+	<string>agdHackathon</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>958FD8F9BF58BA52776CF1A0362C93F4FF5C8857</key>
+		<string>https://github.com/paymok/ios8-hackathon.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>agdHackathon.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>958FD8F9BF58BA52776CF1A0362C93F4FF5C8857</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/paymok/ios8-hackathon.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>958FD8F9BF58BA52776CF1A0362C93F4FF5C8857</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>958FD8F9BF58BA52776CF1A0362C93F4FF5C8857</string>
+			<key>IDESourceControlWCCName</key>
+			<string>agdHackathon</string>
+		</dict>
+	</array>
+</dict>
+</plist>
